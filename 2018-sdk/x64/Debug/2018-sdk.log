@@ -1,0 +1,3 @@
+﻿  entry.cpp
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\ragha\OneDrive\Documents\2018-sdk\x64\Debug\2018-sdk.exe : fatal error LNK1120: 1 unresolved externals
